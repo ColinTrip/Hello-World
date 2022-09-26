@@ -7,4 +7,4 @@ Linkedin: https://www.linkedin.com/in/colin-triplett-21b181222
 ## About Me
 I am a junior at the University of Iowa studying Accounting and Business Analytics. In my free time I enjoy going to the gym, playing tennis, watching the hawks play, and hiking. 
 ## BAIS Classes
-This semester I am taking Comp Thinking and Database Management. 
+-This semester I am taking Comp Thinking and Database Management. 
