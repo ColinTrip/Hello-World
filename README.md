@@ -1,3 +1,9 @@
+# **Table of contents**
+- [Purpose](#Purpose)
+- [Contant information](##Contant-information)
+- [About Me](#About-Me)
+- [BAIS Classes](#BAIS-Classes)
+
 ## Purpose
 *This file provides of brief description of myself, as well as how to connect with me. I would love to talk with anyone who wants to learn more about me.
 ## Contant information
